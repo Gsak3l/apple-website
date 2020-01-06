@@ -17,3 +17,35 @@
   line-height: 0;
 }
 
+body {
+  padding-top: 50px;
+}
+
+.product {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.product h1 {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.h2, h2 {
+  font-size: 27px;
+  font-weight: 500;
+}
+
+.h4, h4 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.learn-more {
+  margin-right: 20px;
+}
+
+.product .links {
+  font-size: 24px;
+}
+
