@@ -2,8 +2,8 @@
 }
 
 .navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
-  background-color: #000!important;
-  opacity: 0.8;
+  background-color: #000000!important;
+  /*opacity: 0.8;*/
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -34,11 +34,14 @@ body {
 .h2, h2 {
   font-size: 27px;
   font-weight: 500;
+  color: #fff;
 }
 
 .h4, h4 {
   font-size: 20px;
   font-weight: 400;
+  color: #fff;
+  opacity: 0.5;
 }
 
 .learn-more {
@@ -46,6 +49,23 @@ body {
 }
 
 .product .links {
+  padding-bottom: 50px;
   font-size: 24px;
+}
+
+.product.iphone11pro {
+  background-color: #f9f9f9;
+}
+
+.product.iphone11pro {
+  padding-bottom: 382px;
+}
+
+.h1, h1 {
+  color: #fff;
+}
+
+.product.iphone11pro {
+  background-position: center;
 }
 
