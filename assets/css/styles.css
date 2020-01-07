@@ -32,13 +32,6 @@ body {
   color: #fff;
 }
 
-.h4, h4 {
-  font-size: 20px;
-  font-weight: 400;
-  color: #fff;
-  opacity: 0.5;
-}
-
 .learn-more {
   margin-right: 20px;
 }
@@ -79,5 +72,35 @@ body {
   color: #fff;
   font-weight: 500;
   font-size: 27px;
+}
+
+.product.iphone11 h1 {
+  color: #000;
+  font-weight: bold;
+  font-size: 56px;
+}
+
+.product.iphone11 h2 {
+  color: #000;
+  font-weight: 500;
+  font-size: 27px;
+}
+
+.product.iphone11pro h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+  opacity: 0.5;
+}
+
+.product.iphone11 h4 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  opacity: 0.5;
+}
+
+.product.iphone11 {
+  background-position: center;
 }
 
