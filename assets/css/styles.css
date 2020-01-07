@@ -26,11 +26,6 @@ body {
   text-align: center;
 }
 
-.product h1 {
-  font-size: 56px;
-  font-weight: bold;
-}
-
 .h2, h2 {
   font-size: 27px;
   font-weight: 500;
@@ -55,15 +50,11 @@ body {
 }
 
 .product.iphone11pro {
-  background-color: #f9f9f9;
+  background-color: #000;
 }
 
 .product.iphone11pro {
   padding-bottom: 382px;
-}
-
-.h1, h1 {
-  color: #fff;
 }
 
 .product.iphone11pro {
@@ -72,5 +63,21 @@ body {
 
 .learn-more a:hover {
   color: #2977ff;
+}
+
+.h2, h2 {
+  color: #000;
+}
+
+.product.iphone11pro h1 {
+  font-size: 56px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.product.iphone11pro h2 {
+  color: #fff;
+  font-weight: 500;
+  font-size: 27px;
 }
 
