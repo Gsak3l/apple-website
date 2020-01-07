@@ -36,12 +36,6 @@ body {
   margin-right: 20px;
 }
 
-.product .links {
-  color: #2997ff !important;
-  padding-bottom: 50px;
-  font-size: 24px;
-}
-
 .product.iphone11pro {
   background-color: #000;
 }
@@ -102,5 +96,25 @@ body {
 
 .product.iphone11 {
   background-position: center;
+  padding-bottom: 450px;
+  background-size: 130%;
+  background-repeat: no-repeat;
+}
+
+.product.iphone11 .links {
+  color: #2997ff !important;
+  font-size: 24px;
+}
+
+.product.iphone11pro .links {
+  color: #2997ff !important;
+  padding-bottom: 50px;
+  font-size: 24px;
+}
+
+.iphone11.image {
+  background-position: center;
+  background-size: 100%;
+  padding-bottom: 300px;
 }
 
