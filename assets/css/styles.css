@@ -49,6 +49,7 @@ body {
 }
 
 .product .links {
+  color: #2997ff !important;
   padding-bottom: 50px;
   font-size: 24px;
 }
@@ -67,5 +68,9 @@ body {
 
 .product.iphone11pro {
   background-position: center;
+}
+
+.learn-more a:hover {
+  color: #2977ff;
 }
 
