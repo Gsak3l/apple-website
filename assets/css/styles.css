@@ -57,8 +57,8 @@ body {
 }
 
 .product.iphone11pro h1 {
-  font-size: 56px;
-  font-weight: bold;
+  font-size: 54px;
+  font-weight: 600;
   color: #fff;
 }
 
@@ -70,8 +70,8 @@ body {
 
 .product.iphone11 h1 {
   color: #000;
-  font-weight: bold;
-  font-size: 56px;
+  font-weight: 600;
+  font-size: 54px;
 }
 
 .product.iphone11 h2 {
