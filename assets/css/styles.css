@@ -118,3 +118,10 @@ body {
   padding-bottom: 300px;
 }
 
+.product.apple-watches {
+  height: 340px;
+  width: 150px;
+  background-color: yellow;
+  margin-bottom: -200px;
+}
+
